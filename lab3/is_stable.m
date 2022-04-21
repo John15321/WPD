@@ -32,3 +32,6 @@ else
     stable = 'nie stabilny';
 end
 end
+
+
+
